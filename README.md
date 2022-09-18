@@ -6,3 +6,5 @@ Aplikasi ini merupakan aplikasi yang digunakan pengguna dalam memesan makanan da
 
 * Pseudocode.txt
 * Flowchart.png
+
+Dikerjakan oleh: Christian Antonio - BE3165392
