@@ -3,3 +3,8 @@ Read and Write "Pilih Restoran"
 Read and Write "Pilih Makanan dan Minuman"
 STORE "jumlah pesanan"
 
+IF "ingin menambah pesanan" then
+    back to "Pilih Makanan dan Minuman"
+    STORE "jumlah pesanan"
+
+
