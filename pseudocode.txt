@@ -9,3 +9,6 @@ IF "ingin menambah pesanan" then
 Else 
     STORE "masukkan Lokasi"
 
+Read and Write "penghitungan total harga"
+DISPLAY "total harga"
+
