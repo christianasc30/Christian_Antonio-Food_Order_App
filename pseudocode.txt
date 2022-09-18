@@ -11,4 +11,5 @@ Else
 
 Read and Write "penghitungan total harga"
 DISPLAY "total harga"
-
+Read and Write "melakukan pembayaran"
+Read and Write "pesanan diantarkan"
