@@ -1,0 +1,16 @@
+Start
+Read and Write "Pilih Restoran"
+Read and Write "Pilih Makanan dan Minuman"
+STORE "jumlah pesanan"
+
+IF "ingin menambah pesanan" then
+    back to "Pilih Makanan dan Minuman"
+    STORE "jumlah pesanan"
+Else 
+    STORE "masukkan Lokasi"
+
+Read and Write "penghitungan total harga"
+DISPLAY "total harga"
+Read and Write "melakukan pembayaran"
+Read and Write "pesanan diantarkan"
+End
