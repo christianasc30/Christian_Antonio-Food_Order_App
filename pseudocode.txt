@@ -6,5 +6,6 @@ STORE "jumlah pesanan"
 IF "ingin menambah pesanan" then
     back to "Pilih Makanan dan Minuman"
     STORE "jumlah pesanan"
-
+Else 
+    STORE "masukkan Lokasi"
 
