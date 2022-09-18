@@ -54,11 +54,17 @@
                 <mxCell id="13" value="Apakah ingin menambah pesanan lain" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
                     <mxGeometry x="275" y="670" width="110" height="100" as="geometry"/>
                 </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="20" target="23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="20" value="Memasukkan Lokasi pemesan" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
                     <mxGeometry x="250" y="820" width="160" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="330" y="780" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Menghitung Total Harga" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="940" width="100" height="100" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
